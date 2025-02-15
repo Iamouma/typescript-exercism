@@ -17,12 +17,3 @@ export class Matrix {
     );
   }
 }
-
-// Example Usage
-const matrixString = `9 8 7
-5 3 2
-6 6 7`;
-
-const matrix = new Matrix(matrixString);
-console.log("Rows:", matrix.rows);
-console.log("Columns:", matrix.columns);
