@@ -74,15 +74,6 @@ npm run lint
 
 ---
 
-## 🏁 **How to Contribute**
-If you’d like to contribute or suggest improvements:
-1. **Fork** this repository.
-2. Create a **new branch** (`feature/new-exercise`)
-3. **Commit** your changes.
-4. Open a **pull request**.
-
----
-
 ## 📚 **Resources**
 - [Exercism TypeScript Track](https://exercism.org/tracks/typescript)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
